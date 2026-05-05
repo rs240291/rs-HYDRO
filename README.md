@@ -36,7 +36,7 @@ Files:\
 # Fig. 6
 #
 ###########################
-Description: Spin polarization along the direction of total angular momentum of the system $J\,(-\hat{y})$ as a function of momentum azimuthal angle $\phi$ (left) and the transverse momentum $p_T$ (right) for Au$+$Au collision at $\sqrt{s_{\rm NN}}=200$ GeV within centrality class $35-45$\% for a $(1+1)$D freeze-out. The data for the left plot is taken from [https://doi.org/10.1016/j.nuclphysa.2018.08.034] and for the right plot is taken from [https://doi.org/10.1103/PhysRevC.98.014910].\
+Description: Spin polarization along the direction of total angular momentum of the system $J(-\hat{y})$ as a function of momentum azimuthal angle $\phi$ (left) and the transverse momentum $p_T$ (right) for Au$+$Au collision at $\sqrt{s_{\rm NN}}=200$ GeV within centrality class $35-45$\% for a $(1+1)$D freeze-out. The data for the left plot is taken from [https://doi.org/10.1016/j.nuclphysa.2018.08.034] and for the right plot is taken from [https://doi.org/10.1103/PhysRevC.98.014910].\
 Files:\
 -For Fig. 6 Left , $P_J$ [%] vs $\phi$ [rad]\
 &ensp;&ensp;	Prediction_1-1_model_AuAu_35-45_LocalSpinPol_J_vs_phi_fig_6-left.dat\
@@ -106,7 +106,7 @@ Files:\
 # Fig. 14
 #
 ###########################
-Description: Spin polarization along the total angular momentum of the system $J\,(-\hat{y})$ as a function of momentum azimuthal angle $\phi$ (left) and the transverse momentum $p_T$ (right) for Au$+$Au collision at $\sqrt{s_{\rm NN}}=200$ GeV within centrality class $35-45$\% for $1+1+2$D freeze-out. The data for the left plot is taken from [https://doi.org/10.1016/j.nuclphysa.2018.08.034] and for the right plot is taken from [https://doi.org/10.1103/PhysRevC.98.014910].\
+Description: Spin polarization along the total angular momentum of the system $J(-\hat{y})$ as a function of momentum azimuthal angle $\phi$ (left) and the transverse momentum $p_T$ (right) for Au$+$Au collision at $\sqrt{s_{\rm NN}}=200$ GeV within centrality class $35-45$\% for $1+1+2$D freeze-out. The data for the left plot is taken from [https://doi.org/10.1016/j.nuclphysa.2018.08.034] and for the right plot is taken from [https://doi.org/10.1103/PhysRevC.98.014910].\
 Files:\
 -For Fig. 14 Left , $P_J$ [%] vs $\phi$ [rad]\
 &ensp;&ensp;	Prediction_1-1-2_model_AuAu_35-45_LocalSpinPol_J_vs_phi_fig_14-left.dat\
