@@ -4,7 +4,7 @@ Repository containing materials developed for research in spin hydrodynamics and
 # Modeling Λ polarization in Au+Au collisions at 200 GeV using relativistic spin hydrodynamics
 The data files related to the work\
 Matteo Buzzegoli, Aleksandar Gecić, and Rajeev Singh, "Modeling Λ polarization in Au+Au collisions at 200 GeV using relativistic spin hydrodynamics"\
-ArXiv:\
+ArXiv:2605.08219\
 are organized as follows:\
 ###########################
 # Fig. 4
